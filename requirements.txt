@@ -1,5 +1,7 @@
 matplotlib
 numpy==1.14.5
 pandas
-ipyvtklink
 pyvista
+ipywidgets
+ipyvtklink
+ipygany
