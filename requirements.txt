@@ -4,3 +4,4 @@ pandas
 pyvista
 ipyvtklink
 ipygany
+ipympl
